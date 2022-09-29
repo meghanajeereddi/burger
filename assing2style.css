@@ -1,0 +1,122 @@
+body{
+    background-image: url(https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.first{
+    margin: 0px;
+    height: 400px;
+    width: 70px;
+    background-color: black;
+    
+}
+.image{
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 60px;
+}
+
+.second{
+    margin: 0px;
+    height: 320px;
+    width: 70px;
+    background-color: yellow;
+    
+} 
+.image1{
+    height: 30px;
+    width: 30px;
+    margin-top: 45px;
+    margin-left: 15px;
+    border-radius: 80px;
+    position: relative;
+    top: 30px;
+}
+.img{
+    margin-left: 25px;
+    position: relative;
+    top: 40px;
+}
+.navbar{
+    margin: 0px;
+    height:400px;
+    display: inline-block;
+    text-decoration: none;
+}
+h1{
+    font-size: 50px;
+    margin-top: 4px;
+}
+.sub1{
+    width: 300px;
+    position: relative;
+    color: white;
+    display: inline-block;
+}
+.sub2,.sub3,.sub4{
+    display: inline-block;
+    width:100px;
+    font-size:20px ;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+.sub4{
+    width:600px;
+}
+.sub5{
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+}
+.button1{
+    background-color: yellow;
+    height:30px;
+    width:100px;
+}
+.text{
+    position: relative;
+    top:60px;
+    color:white
+}
+.text1{
+    color:yellow;
+}
+.button2{
+    background-color: yellow;
+    height:30px;
+    text-align: center;
+    vertical-align: middle;
+    position: relative;
+    top: 50px;
+}
+.third{
+    height:80px;
+    width:200px;
+    color:black;
+    background-color: yellow;
+    position: relative;
+    margin-top: 245px;
+    margin-left: 1000px;
+    text-align: center;
+}
+.fin{
+   padding-left: 25px;
+   width:130px;
+   display: inline-block;
+   position: relative;
+   bottom:10px;
+}
+.fin1{  
+    display: inline-block;
+    position: relative;
+    bottom:10px;
+}
+.row2{
+    margin-top: 0px;
+}
+h2{
+    font-size: 30px;
+}
